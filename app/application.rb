@@ -8,6 +8,8 @@ class Application
     
     
     req.path.match(/item/)
+    
+    if req.path == "/items/"
   
   end
   
