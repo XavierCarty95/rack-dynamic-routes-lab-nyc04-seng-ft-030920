@@ -1,25 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@XavierCarty95 
-learn-co-students
-/
-rack-dynamic-routes-lab-nyc04-seng-ft-030920
-30
-04
- Code Issues 0 Pull requests 3 Actions Projects 0 Security Insights
-rack-dynamic-routes-lab-nyc04-seng-ft-030920/app/application.rb / 
-@jmburges jmburges adding solution
-40c846a on Mar 7, 2019
-23 lines (20 sloc)  511 Bytes
-  
-Code navigation is available!
-Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
 
 class Application
 
